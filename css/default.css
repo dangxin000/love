@@ -30,7 +30,7 @@ body {
     height: auto;
 }
 #loveHeart {
-    width: 650px;
+    width:40%;
     height: 625px;
     position: relative;
 }
@@ -50,11 +50,11 @@ body {
 
 #words {
     font-family: 'NSimSun', Helvetica, sans-serif;
-    width: 500px;
+    width:70%;
     font-size: 2em;
     position: absolute;
-    top: 195px;
-    left: 70px;
+    top: 25%;
+    left: 9%;
     color: #000;
     text-shadow: 4px 4px 3px rgba(0,0,0,0.1);
 }
@@ -71,8 +71,8 @@ body {
 #love-u {
     padding: 5px;
     font-size: 22px;
-    margin-top: 80px;
-    margin-right: 120px;
+    margin-top: 15%;
+    margin-right: 15%;
     text-align: right;
     display: none
 }
